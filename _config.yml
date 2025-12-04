@@ -47,6 +47,20 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
+- title: Connect
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/scoutosborne
+    - icon: book
+      text: ORCID
+      href: https://orcid.org/0000-0002-6914-9239
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/scout-osborne/
+    - icon: envelope
+      text: Email
+      href: "mailto:scout.osborne@case.edu"
 
 # Collections
 collections:
