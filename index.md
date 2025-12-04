@@ -26,18 +26,25 @@ I am a student in the CWRU MSTP program with research interests in microbiome an
 [Download my CV](assets/files/Scout_Osborne_CV.pdf)  
 
 ---
-
 <!-- Projects Section -->
-<div id="projects"></div>
+<div id="projects">
+## Projects
 
-# Projects
-### Defining the Neovaginal Microbiome
-**Abstract:** The transfeminine neovagina represents a distinct microbial and immunological niche. Vaginal discharge strongly correlates with cytokine and metabolite shifts.  
-**Methods:** Structured surveys, Pap smears, and neovaginal swabs are collected from 36 transfeminine participants. Swabs undergo 16S rRNA sequencing, cytokine profiling, and untargeted metabolomics.  
+### Defining the Neovaginal Microbiome after Gender-Affirming Vaginoplasty
 
-![Workflow](assets/images/neovaginal-workflow.png)
-*Figure 1: Study workflow*
+**Significance:**  
+Gender-affirming vaginoplasty is increasingly common, yet little is known about the microbial environment of the surgically constructed neovagina. Bacterial vaginosis (BV) is a common pathology post-vaginoplasty. We compare neovaginal microbial and inflammatory profiles to the cisgender vagina and evaluate clinical symptoms.
 
-### Other Projects
-- Project 2: Short description  
-- Project 3: Short description
+**Methods:**  
+Structured surveys, Pap smears, and neovaginal swabs have been collected from 36 transfeminine participants. Swabs underwent 16S rRNA sequencing, cytokine profiling, and untargeted metabolomics.
+
+![Neovaginal study workflow](images/diva_methods.png)
+*Figure 1: Workflow of sample collection and analysis.*
+
+**Results:**  
+The neovaginal microbiome is highly diverse and distinct from the cisgender vagina. Healthy cisgender samples are Lactobacillus-dominated, while neovaginal samples have almost no Lactobacillus. Neovaginal communities resemble BV-associated cisgender vagina but contain more Peptoniphilus and Anaerococcus. Vaginal discharge drives elevated pro-inflammatory cytokines and metabolite shifts, with unique immune signatures compared to cisgender samples.
+
+**Conclusions:**  
+The transfeminine neovagina represents a distinct microbial and immunological niche. High diversity, consistent Lactobacillus depletion, and symptom-associated inflammation highlight the need for neovagina-specific diagnostics and management. Longitudinal studies are necessary to link microbial metabolism, host inflammation, and clinical outcomes.
+
+</div>
