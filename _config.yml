@@ -35,13 +35,13 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: /
+  url: "#home"
 - title: About
-  url: /about/
-- title: Projects
-  url: /projects/
+  url: "#about"
 - title: CV
-  url: /cv/
+  url: "#cv"
+- title: Projects
+  url: "#projects"
 
 # Footer nav
 navigation_footer:
