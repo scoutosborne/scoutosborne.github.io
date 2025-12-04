@@ -35,7 +35,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
 - title: Home
-  url: "#home"
+  url: "#top"
 - title: About
   url: "#about"
 - title: CV
@@ -45,22 +45,18 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
-- title: Connect
-  links:
+- url: "#top"
+  text: Back to top
+- links:
     - icon: github
-      text: Github
       href: https://github.com/scoutosborne
     - icon: book
-      text: ORCID
       href: https://orcid.org/0000-0002-6914-9239
     - icon: linkedin
-      text: LinkedIn
       href: https://www.linkedin.com/in/scout-osborne/
     - icon: envelope
-      text: Email
       href: "mailto:scout.osborne@case.edu"
+
 
 # Collections
 collections:
