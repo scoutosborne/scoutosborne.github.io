@@ -10,7 +10,7 @@ feature_image: /images/microbes.jpg
 Hello, I’m Scout Osborne! This site showcases my work, CV, and research projects.
 
 <!-- Social Icons -->
-<div style="margin-top: 20px;">
+<div style="text-align: center; margin-top: 20px;">
   <a href="https://github.com/scoutosborne" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="32" style="margin-right:10px;">
   </a>
