@@ -23,6 +23,8 @@ Clinically, I am drawn to family or internal medicine. I hope to integrate my re
 
 Please feel free to [contact me](mailto:scout.osborne@case.edu) if you have any questions or would like to discuss potential projects.
 
+![Personal image](images/scout_osborne1.jpeg)
+
 ---
 
 <!-- CV Section -->
@@ -33,10 +35,10 @@ Please feel free to [contact me](mailto:scout.osborne@case.edu) if you have any 
 
 ---
 <!-- Projects Section -->
-<div id="projects">
-## Projects
+<div id="projects"></div>
+# Projects
 
-### Defining the Neovaginal Microbiome after Gender-Affirming Vaginoplasty
+## Defining the Neovaginal Microbiome after Gender-Affirming Vaginoplasty
 
 Gender-affirming vaginoplasty is increasingly common, yet little is known about the microbial environment of the surgically constructed neovagina. Bacterial vaginosis (BV) is a common pathology post-vaginoplasty. We compare neovaginal microbial and inflammatory profiles to the cisgender vagina and evaluate clinical symptoms.
 
@@ -48,5 +50,3 @@ Structured surveys, Pap smears, and neovaginal swabs have been collected from 36
 The neovaginal microbiome is highly diverse and distinct from the cisgender vagina. Healthy cisgender samples are Lactobacillus-dominated, while neovaginal samples have almost no Lactobacillus. Neovaginal communities resemble BV-associated cisgender vagina but contain more Peptoniphilus and Anaerococcus. Vaginal discharge drives elevated pro-inflammatory cytokines and metabolite shifts, with unique immune signatures compared to cisgender samples.
 
 The transfeminine neovagina represents a distinct microbial and immunological niche. High diversity, consistent Lactobacillus depletion, and symptom-associated inflammation highlight the need for neovagina-specific diagnostics and management. Longitudinal studies are necessary to link microbial metabolism, host inflammation, and clinical outcomes.
-
-</div>
