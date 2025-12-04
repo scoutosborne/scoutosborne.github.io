@@ -45,17 +45,17 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- url: "#top"
-  text: Back to top
-- links:
-    - icon: github
-      href: https://github.com/scoutosborne
-    - icon: book
-      href: https://orcid.org/0000-0002-6914-9239
-    - icon: linkedin
-      href: https://www.linkedin.com/in/scout-osborne/
-    - icon: envelope
-      href: "mailto:scout.osborne@case.edu"
+- title: Back to top
+  url: "#top"
+- title: Github
+  url: https://github.com/scoutosborne
+- title: ORCID
+  url: https://orcid.org/0000-0002-6914-9239
+- title: LinkedIn
+  url: https://www.linkedin.com/in/scout-osborne/
+- title: Email
+  url: "mailto:scout.osborne@case.edu"
+
 
 
 # Collections
