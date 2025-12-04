@@ -47,16 +47,6 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
-- title: Github
-  url: https://github.com/scoutosborne
-- title: ORCID
-  url: https://orcid.org/0000-0002-6914-9239
-- title: LinkedIn
-  url: https://www.linkedin.com/in/scout-osborne/
-- title: Email
-  url: "mailto:scout.osborne@case.edu"
-
-
 
 # Collections
 collections:
