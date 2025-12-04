@@ -9,6 +9,22 @@ feature_image: /images/microbes.jpg
 
 Hello, I’m Scout Osborne! This site showcases my work, CV, and research projects.
 
+<!-- Social Icons -->
+<div style="margin-top: 20px;">
+  <a href="https://github.com/scoutosborne" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="32" style="margin-right:10px;">
+  </a>
+  <a href="https://orcid.org/0000-0002-6914-9239" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/orcid.svg" alt="ORCID" width="32" style="margin-right:10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/scout-osborne/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="32" style="margin-right:10px;">
+  </a>
+  <a href="mailto:scout.osborne@case.edu">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="32">
+  </a>
+</div>
+
 ---
 
 <!-- About Section -->
