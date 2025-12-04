@@ -3,7 +3,6 @@ layout: page
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
-# CV
 
 You can download my CV here:
 
