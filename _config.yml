@@ -40,6 +40,9 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: CV
+  url: /cv/
+
 
 # Footer nav
 navigation_footer:
