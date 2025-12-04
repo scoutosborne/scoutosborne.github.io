@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Scout Osborne'
 description: "Scout Osborne's personal website"
 permalink: pretty
-logo: /images/biological_logo.png
+logo: /images/biological_favicon.png
 
 # Pagination
 paginate: 5
