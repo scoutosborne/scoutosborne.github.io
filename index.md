@@ -2,14 +2,11 @@
 layout: page
 title: Welcome to my website
 feature_image: /images/microbes.jpg
-feature_text: |
-  ## Welcome
 ---
 
 <!-- Home Section -->
 <div id="home"></div>
 
-# Nice to meet you
 Hello, I’m Scout Osborne! This site showcases my work, CV, and research projects.
 
 ---
@@ -27,12 +24,6 @@ I am a student in the CWRU MSTP program with research interests in microbiome an
 
 # Curriculum Vitae
 [Download my CV](assets/files/Scout_Osborne_CV.pdf)  
-Or browse online:
-
-- Education
-- Research
-- Publications
-- Awards
 
 ---
 
