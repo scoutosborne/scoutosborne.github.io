@@ -24,7 +24,7 @@ plugins:
 url: 'https://scoutosborne.github.io/'
 baseurl: ''
 title: 'Scout Osborne'
-description: 'Scout Osborne's personal website'
+description: "Scout Osborne's personal website"
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
