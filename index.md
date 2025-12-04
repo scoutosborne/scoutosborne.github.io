@@ -40,9 +40,9 @@ Please feel free to [contact me](mailto:scout.osborne@case.edu) if you have any 
 
 #### Defining the Neovaginal Microbiome after Gender-Affirming Vaginoplasty
 
-Gender-affirming vaginoplasty is increasingly common, yet little is known about the microbial environment of the surgically constructed neovagina. Bacterial vaginosis (BV) is a common pathology post-vaginoplasty. We compare neovaginal microbial and inflammatory profiles to the cisgender vagina and evaluate clinical symptoms.
+Gender-affirming vaginoplasty is increasingly common, yet little is known about the microbial environment of the surgically constructed neovagina. Bacterial vaginosis (BV) is a common pathology post-vaginoplasty. In this project, we compare neovaginal microbial and inflammatory profiles to the cisgender vagina and evaluate clinical symptoms.
 
-Structured surveys, Pap smears, and neovaginal swabs have been collected from 36 transfeminine participants. Swabs underwent 16S rRNA sequencing, cytokine profiling, and untargeted metabolomics.
+Structured surveys, Pap smears, and neovaginal swabs have been collected from 36 transfeminine participants. Swabs have undergone 16S rRNA sequencing, cytokine profiling, and untargeted metabolomics.
 
 ![Neovaginal study workflow](images/diva_methods.png)
 *Figure 1: Workflow of sample collection and analysis.*
