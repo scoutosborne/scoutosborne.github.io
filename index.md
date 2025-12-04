@@ -49,4 +49,4 @@ Structured surveys, Pap smears, and neovaginal swabs have been collected from 36
 
 The neovaginal microbiome is highly diverse and distinct from the cisgender vagina. Healthy cisgender samples are Lactobacillus-dominated, while neovaginal samples have almost no Lactobacillus. Neovaginal communities resemble BV-associated cisgender vagina but contain more Peptoniphilus and Anaerococcus. Vaginal discharge drives elevated pro-inflammatory cytokines and metabolite shifts, with unique immune signatures compared to cisgender samples.
 
-The transfeminine neovagina represents a distinct microbial and immunological niche. High diversity, consistent Lactobacillus depletion, and symptom-associated inflammation highlight the need for neovagina-specific diagnostics and management. Longitudinal studies are necessary to link microbial metabolism, host inflammation, and clinical outcomes.
+The transfeminine neovagina represents a distinct microbial and immunological niche. High diversity, consistent Lactobacillus depletion, and symptom-associated inflammation highlight the need for neovagina-specific diagnostics and management.
