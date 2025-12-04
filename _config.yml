@@ -38,11 +38,10 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Projects
+  url: /projects/
 - title: CV
   url: /cv/
-
 
 # Footer nav
 navigation_footer:
@@ -51,12 +50,12 @@ navigation_footer:
 
 # Collections
 collections:
-  posts:
-    title: Posts
+  projects:
+    title: Projects
     output: true
-    description: "My thoughts and ideas"
+    description: "My work and projects"
     feature_text: |
-      Welcome to my blog
+      Welcome to my projects
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings
@@ -64,12 +63,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "projects"
     values:
-      layout: post # Set the default layout for posts
+      layout: post
   -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: page # Set the default layout for pages
+      layout: page
+
