@@ -19,7 +19,7 @@ I am an MD-PhD student at Case Western Reserve University with a background in b
 
 My research has focused on infectious diseases from viral oncology research on Kaposi’s sarcoma-associated herpesvirus to global health projects on dengue fever. These experiences have fueled my passion for addressing health inequities through both rigorous science and patient-centered care.
 
-Clinically, I am drawn to family or internal medicine. I hope to integrate my research training with a career that bridges infectious disease, global health, and primary care. I'd like to support patients not only in the clinic but also through systems that promote equity and prevention.
+Clinically, I am drawn to family or internal medicine. I hope to integrate my research training with a career that bridges infectious disease, global health, and primary care.
 
 Please feel free to [contact me](mailto:scout.osborne@case.edu) if you have any questions or would like to discuss potential projects.
 
